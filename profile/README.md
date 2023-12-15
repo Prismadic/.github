@@ -5,6 +5,9 @@
 <div align="center">
  <strong>Read the Prismadic research journal on <a href="https://prismadic.substack.com">SubStack</a></strong>
  <br><br>
+
+ <img src="./image_square.png" alt="Article 1" width="150">
+ <img src="./accent_color_square" alt="Article 2" width="150">
  
  `discover more about what we're doing`
  
