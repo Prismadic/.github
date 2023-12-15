@@ -5,9 +5,8 @@
 <div align="center">
  <strong>Read the Prismadic research journal on <a href="https://prismadic.substack.com">SubStack</a></strong>
  <br><br>
-
- <a href="https://prismadic.substack.com/p/engineer-a-system-for-the-future"><img src="./image_square.jpg" alt="Article 1" width="250"></a>
- <a href="https://prismadic.substack.com/p/build-a-system-for-the-future-of"><img src="./accent_color_square.jpg" alt="Article 2" width="250"></a>
+ <a href="https://prismadic.substack.com/p/engineer-a-system-for-the-future"><img src="https://github.com/Prismadic/.github/blob/main/profile/image_square.jpg" alt="Article 1" width="250"></a>
+ <a href="https://prismadic.substack.com/p/build-a-system-for-the-future-of"><img src="https://github.com/Prismadic/.github/blob/main/profile/accent_color_square.jpg" alt="Article 2" width="250"></a>
  
  `discover more about what we're doing`
  
