@@ -7,8 +7,9 @@
  <br><br>
  <a href="https://prismadic.substack.com/p/engineer-a-system-for-the-future"><img src="https://github.com/Prismadic/.github/blob/main/profile/image_square.jpg" alt="Article 1" width="250"></a>
  <a href="https://prismadic.substack.com/p/build-a-system-for-the-future-of"><img src="https://github.com/Prismadic/.github/blob/main/profile/accent_color_square.jpg" alt="Article 2" width="250"></a>
+ <br><br>
  
- `discover more about what we're doing`
+ `discover more about what we're building`
  
  <br><br>
  <strong> 🔗 <a href="https://prismadic.ai">Website</a> </strong><br>
