@@ -1,6 +1,6 @@
 <a href="#user-content-Prismadic"><img src="https://prismadic.ai/logo.png" alt="Prismadic logo" width="75" align="right"></a>
 
-# PrismadicAI
+# Prismadic AI
 
 <div align="center">
  <strong>Read the Prismadic research journal on <a href="https://prismadic.substack.com">SubStack</a></strong>
