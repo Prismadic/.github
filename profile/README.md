@@ -6,8 +6,8 @@
  <strong>Read the Prismadic research journal on <a href="https://prismadic.substack.com">SubStack</a></strong>
  <br><br>
 
- <img src="./image_square.jpg" alt="Article 1" width="250">
- <img src="./accent_color_square.jpg" alt="Article 2" width="250">
+ <a href="https://prismadic.substack.com/p/engineer-a-system-for-the-future"><img src="./image_square.jpg" alt="Article 1" width="250"></a>
+ <a href="https://prismadic.substack.com/p/build-a-system-for-the-future-of"><img src="./accent_color_square.jpg" alt="Article 2" width="250"></a>
  
  `discover more about what we're doing`
  
