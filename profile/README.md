@@ -1,4 +1,4 @@
-<a href="#user-content-Prismadic"><img src="https://www.prismadic.ai/logo.png" alt="Prismadic logo" width="75" align="right"></a>
+<a href="#user-content-Prismadic"><img src="https://prismadic.ai/logo.png" alt="Prismadic logo" width="75" align="right"></a>
 
 # Prismadic AI
 
